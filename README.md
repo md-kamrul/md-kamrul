@@ -1,5 +1,3 @@
-![Student](https://scontent.fdac135-1.fna.fbcdn.net/v/t39.30808-6/271683261_2078073302350992_5077596636509796015_n.jpg?stp=dst-jpg_s960x960&_nc_cat=104&ccb=1-5&_nc_sid=e3f864&_nc_eui2=AeF7Bals2n-drAiTV3M23kn3eD-ucdZLcnN4P65x1ktyc8WqoJpu7qlWk3vkPuOQAwGBqkaao1zplbQ0XTFWs8e_&_nc_ohc=zblhcjxNI_sAX-oTmLZ&_nc_ht=scontent.fdac135-1.fna&oh=00_AT_kMG_0qZwvHW3hdNjI8McfbvprNEJ9rftN_OpOmb53KA&oe=623B8855)
-
 ### Hi there 👋, My name is Md. Kamrul Islam
 #### Student
 
