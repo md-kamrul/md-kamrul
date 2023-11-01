@@ -23,8 +23,8 @@ $ Very curious about Cyber Security and Artificial Intelligence.
 
 **Skills:**
 <br><br>
-![html-logo](https://github.com/md-kamrul/md-kamrul/assets/101986865/02feab3f-5c8d-4c04-b3fb-bf04a06c22b1)
-![css](https://github.com/md-kamrul/md-kamrul/assets/101986865/fe02f629-c27b-4cd6-8385-522048dff8dd)
+
+![png-transparent-logo-html-html5](https://github.com/md-kamrul/md-kamrul/assets/101986865/38ed1f41-12f4-4918-b3f4-f911da3a5285)
 
 
 #Connect_Me :<br>
