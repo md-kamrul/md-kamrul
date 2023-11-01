@@ -22,8 +22,10 @@ $ I love coding, critical thinking and reading books.
 $ Very curious about Cyber Security and Artificial Intelligence.
 
 
+
 **SKILLS:**<br>
 o HTML      o CSS      o Bootstrap      o C      o C++      o JAVA        o Figma
+
 
 
 #Connect_Me :<br>
