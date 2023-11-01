@@ -23,6 +23,11 @@ $ Very curious about Cyber Security and Artificial Intelligence.
 
 
 
+**SKILLS:**<br>
+<i class="bi bi-filetype-html"></i>
+
+
+
 #Connect_Me :<br>
 ***E-mail: join.kamrul@gmail.com<br>
 ***Facebook: https://www.facebook.com/kamrul.contact<br>
