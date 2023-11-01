@@ -21,10 +21,8 @@ This is Md. Kamrul Islam from Dhaka, Bangladesh.
 $ I love coding, critical thinking and reading books.
 $ Very curious about Cyber Security and Artificial Intelligence.
 
-**Skills:**
-<br><br>
-
-![png-transparent-logo-html-html5](https://github.com/md-kamrul/md-kamrul/assets/101986865/38ed1f41-12f4-4918-b3f4-f911da3a5285)
+SKILLS:
+o HTML      o CSS      o Bootstrap      o C      o C++      o JAVA        o Figma
 
 
 #Connect_Me :<br>
