@@ -1,5 +1,4 @@
-![filetype-html](https://github.com/md-kamrul/md-kamrul/assets/101986865/69bca321-42f9-4705-a533-bd1ea777b09d)### Hi there 👋, My name is Md. Kamrul Islam
-#### Student
+### Hi there 👋
 
 This is Md. Kamrul Islam from Dhaka, Bangladesh. 
 
