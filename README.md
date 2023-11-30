@@ -24,11 +24,5 @@ $ Very curious about Cyber Security and Artificial Intelligence.
 
 #Connect_Me :<br>
 ***E-mail: join.kamrul@gmail.com<br>
-***Facebook: https://www.facebook.com/kamrul.contact<br>
-***Messager: https://m.me/kamrul.contact<br>
-***Skype: https://join.skype.com/invite/W3DRXGMeIklV<br>
-
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/md-kamrul)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/kamrul-contact/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/kamrul.join/)  
-
+***Facebook: https://www.facebook.com/iammdkamrulislam<br>
+***LinkedIn: https://www.linkedin.com/in/iamkamrulislam/<br>
