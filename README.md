@@ -4,7 +4,9 @@ This is Md. Kamrul Islam from Dhaka, Bangladesh.
 
 ==> I am currently studying in BSc in Computer Science & Engineering (CSE) at North South University in Bangladesh.
 
-==> I am a Permanent Co-Ordinator at Plexus For Youth.
+==> I am a Sub-Executive Member at North South University Communications Club - NSUCC
+
+==> I am a Former Permanent Co-Ordinator at Plexus For Youth.
 
 ==> I am a Former Campus Ambassador at Learnera.
 
