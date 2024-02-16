@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img width = "100%" height = "auto" src="md_kamrul_islam_banner.png">
+
 This is Md. Kamrul Islam from Dhaka, Bangladesh. 
 
 ==> I am currently studying in BSc in Computer Science & Engineering (CSE) at North South University in Bangladesh.
