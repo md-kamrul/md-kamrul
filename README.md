@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img width = "100%" height = "auto" src="White Minimalist Profile LinkedIn Banner.png">
+<img width = "100%" height = "auto" src="md_kamrul_islam_banner.png">
 
 This is Md. Kamrul Islam from Dhaka, Bangladesh. 
 
